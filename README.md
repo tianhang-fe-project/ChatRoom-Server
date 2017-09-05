@@ -1,4 +1,4 @@
-# Example Node Server w/ Babel
+# chat room server
 
 ### Getting Started
 
