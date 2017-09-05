@@ -9,6 +9,7 @@
 
   - url: 'mongodb://localhost:27017/chat',
   - db name : chat
+  
 3 git clone this repo 
 
 4 npm install
