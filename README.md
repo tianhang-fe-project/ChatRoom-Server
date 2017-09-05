@@ -4,6 +4,7 @@
 
 1 install redis 
    - port: 6374
+   
 2 install mongodb 
 
   - url: 'mongodb://localhost:27017/chat',
