@@ -9,6 +9,11 @@
     "serve": "node dist/index.js",
     "test": "mocha --compilers js:babel-register"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tianhang-fe-project/ChatRoom-Server.git"
+
+  },
   "author": "Tianhang Zhang",
   "license": "ISC",
   "devDependencies": {
